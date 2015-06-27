@@ -1,0 +1,1 @@
+What will hopefully be a map viewer for Android for OSM
